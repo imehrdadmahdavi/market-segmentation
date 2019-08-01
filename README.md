@@ -1,14 +1,19 @@
 ## Creating Customer Segments using Unsupervised Learning Techniques
 
+### Description
+
+This project, will analyze a dataset containing data on various customers' annual spending amounts (reported in *monetary units*) of diverse product categories for internal structure. One goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
+
+
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3.7** and the following Python libraries installed:
 
 - [Jupyter Notebook (IPython) 4.10.0](https://ipython.org/)
 - [numPy 1.16.4](http://www.numpy.org/)
 - [Pandas 0.24.2](http://pandas.pydata.org/)
 - [matplotlib 2.2.4](http://matplotlib.org/)
-- [scikit-learn 0.17](http://scikit-learn.org/stable/)
+- [scikit-learn 0.19.02](http://scikit-learn.org/stable/)
 
 ### Code
 
